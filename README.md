@@ -1,7 +1,8 @@
 # Simple-Dynamo Programming Assignment -4
-Distributed Systems CS586 - Spring 2015 class project-4, UB
+*Distributed Systems CS586 - Spring 2015 class project-4, UB*
 
 Replicated Key-Value Storage (Dynamo-style)
+-------------------------------------------
 
 In this assignment, I have implemented a Dynamo-style key-value storage. This assignment was about implementing a simplified version of Dynamo. (And you might argue that it’s not Dynamo any more ;-) There were three main pieces I had to implement: 1) Partitioning, 2) Replication, and 3) Failure handling.
 
