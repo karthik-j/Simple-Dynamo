@@ -1,4 +1,4 @@
-# Simple-Dynamo Programming Assignment -4
+# Simple-Dynamo
 *Distributed Systems CS586 - Spring 2015 class project-4, UB*
 
 Replicated Key-Value Storage (Dynamo-style)
